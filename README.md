@@ -1,5 +1,5 @@
 # Project Futureless
- A game project in Unity 2D To practice different game styles
+ A game project in Unity 2D to practice different game styles
 
 In this project each phase has a different gameplay style, for example:
 - 2D Fighting
