@@ -1,0 +1,9 @@
+1- Menu Manager
+2- Scene Manager
+3- Game Manager
+4- Main Menu (Start, Options, Credits, Close)
+5- First Day (Tutorial, First 4 steps)
+6- Step 5
+7- Start (Steps 6 to 11)
+8- Review everything
+9- Start steps 12 and 13
